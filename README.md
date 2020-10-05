@@ -29,4 +29,7 @@
 
 - السجل التجاري: https://developer.wathq.sa/ar/api/16
 
+## بيانات
+- منصة البيانات المفتوحة: https://data.gov.sa/en/developers
+
 </div>
