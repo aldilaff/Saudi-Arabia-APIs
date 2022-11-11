@@ -32,4 +32,8 @@
 ## بيانات
 - منصة البيانات المفتوحة: https://data.gov.sa/en/developers
 
+## زد
+https://docs.zid.dev/
+
+
 </div>
